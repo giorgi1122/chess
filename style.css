@@ -1,0 +1,32 @@
+.chess-board 
+{
+   border-collapse: collapse;
+    color:rgb(36, 169, 202); 
+}
+
+.chess-board td 
+{
+   border: 1px solid  
+}
+
+
+
+body{
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
+
+.white
+{
+
+ 
+  background-color:white;
+ 
+}
+.black  
+{
+  background-color: rgb(36, 169, 202);
+  width:95px;
+  height:95px;
+}
